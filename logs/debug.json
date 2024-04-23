@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2024-04-23 18:19",
+    "level": "debug",
+    "message": "Deleted command: animedown"
+  },
+  {
+    "timestamp": "2024-04-23 18:19",
+    "level": "debug",
+    "message": "Deleted command: help"
+  },
+  {
+    "timestamp": "2024-04-23 18:19",
+    "level": "debug",
+    "message": "Successfully synced application (/) commands."
+  },
+  {
+    "timestamp": "2024-04-23 18:19",
+    "level": "debug",
+    "message": "Deleted command: animedown"
+  },
+  {
+    "timestamp": "2024-04-23 18:19",
+    "level": "debug",
+    "message": "Deleted command: help"
+  },
+  {
+    "timestamp": "2024-04-23 18:19",
+    "level": "debug",
+    "message": "Successfully synced application (/) commands."
+  }
+]
