@@ -11,19 +11,20 @@ module.exports = {
       padding: 1,
       margin: 1,
       borderStyle: 'double',
-      borderColor: '#FF69B4',
-      backgroundColor: '#FFC0CB',
+      borderColor: '#FFAA1D',
+      backgroundColor: '#E3FF1D',
     };
 
-    const asciiArt = boxen(`💕 Kawaii Lucy 💕\nUwu~ I'm ready to play! \nCredits: \nHandler by @bre4d77 ( https://discord.com/invite/e6Jqr8e7 ) \n Invite Lucy: https://tinyurl.com/InviteLucy \n Vote for Lucy: https://tinyurl.com/topggLucy `, boxOptions);
+    const asciiArt = boxen(`✅ Lucy ✅\nUwu~ a advanced bot! \nCredits: \nHandler by @bre4d77 ( https://discord.com/invite/e6Jqr8e7 ) \n Invite Lucy: https://tinyurl.com/InviteLucy \n Vote for Lucy: https://tinyurl.com/topggLucy `, boxOptions);
 
     console.log(chalk.hex('#FF69B4')(`\x1b[1m${asciiArt}\x1b[0m`));
 
-    lucy.logger.info(`Nyaa~ ${lucy.user.tag} is online and ready to spread some love! OwO`, lucy.shard.id);
-
+    lucy.logger.info(`${lucy.user.tag} is online and ready! OwO`, lucy.shard.id);
+  
     try {
+      
       const spinner = ora('🤖 Syncing application (/) commands...').start();
-      lucy.logger.info('Nya~ Starting to sync application (/) commands.', lucy.shard.id);
+      lucy.logger.info(' Starting to sync application (/) commands.', lucy.shard.id);
 
       // Fetch existing commands
       const rest = new REST({ version: '9' }).setToken(lucy.config.botToken);

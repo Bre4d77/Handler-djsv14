@@ -1,32 +1,511 @@
 [
   {
-    "timestamp": "2024-04-23 18:19",
+    "timestamp": "2024-04-27 22:20",
+    "level": "debug",
+    "message": "Deleted command: music"
+  },
+  {
+    "timestamp": "2024-04-27 22:20",
     "level": "debug",
     "message": "Deleted command: animedown"
   },
   {
-    "timestamp": "2024-04-23 18:19",
+    "timestamp": "2024-04-27 22:20",
     "level": "debug",
     "message": "Deleted command: help"
   },
   {
-    "timestamp": "2024-04-23 18:19",
+    "timestamp": "2024-04-27 22:20",
     "level": "debug",
     "message": "Successfully synced application (/) commands."
   },
   {
-    "timestamp": "2024-04-23 18:19",
+    "timestamp": "2024-04-27 22:29",
+    "level": "debug",
+    "message": "Deleted command: music"
+  },
+  {
+    "timestamp": "2024-04-27 22:29",
     "level": "debug",
     "message": "Deleted command: animedown"
   },
   {
-    "timestamp": "2024-04-23 18:19",
+    "timestamp": "2024-04-27 22:29",
     "level": "debug",
     "message": "Deleted command: help"
   },
   {
-    "timestamp": "2024-04-23 18:19",
+    "timestamp": "2024-04-27 22:29",
     "level": "debug",
     "message": "Successfully synced application (/) commands."
+  },
+  {
+    "timestamp": "2024-04-27 22:33",
+    "level": "debug",
+    "message": "Deleted command: music"
+  },
+  {
+    "timestamp": "2024-04-27 22:33",
+    "level": "debug",
+    "message": "Deleted command: animedown"
+  },
+  {
+    "timestamp": "2024-04-27 22:33",
+    "level": "debug",
+    "message": "Deleted command: help"
+  },
+  {
+    "timestamp": "2024-04-27 22:33",
+    "level": "debug",
+    "message": "Successfully synced application (/) commands."
+  },
+  {
+    "timestamp": "2024-04-27 22:37",
+    "level": "debug",
+    "message": "Deleted command: music"
+  },
+  {
+    "timestamp": "2024-04-27 22:37",
+    "level": "debug",
+    "message": "Deleted command: animedown"
+  },
+  {
+    "timestamp": "2024-04-27 22:37",
+    "level": "debug",
+    "message": "Deleted command: help"
+  },
+  {
+    "timestamp": "2024-04-27 22:37",
+    "level": "debug",
+    "message": "Successfully synced application (/) commands."
+  },
+  {
+    "timestamp": "2024-04-27 22:38",
+    "level": "debug",
+    "message": "Deleted command: music"
+  },
+  {
+    "timestamp": "2024-04-27 22:38",
+    "level": "debug",
+    "message": "Deleted command: animedown"
+  },
+  {
+    "timestamp": "2024-04-27 22:38",
+    "level": "debug",
+    "message": "Deleted command: help"
+  },
+  {
+    "timestamp": "2024-04-27 22:38",
+    "level": "debug",
+    "message": "Successfully synced application (/) commands."
+  },
+  {
+    "timestamp": "2024-04-27 22:40",
+    "level": "debug",
+    "message": "Deleted command: music"
+  },
+  {
+    "timestamp": "2024-04-27 22:40",
+    "level": "debug",
+    "message": "Deleted command: animedown"
+  },
+  {
+    "timestamp": "2024-04-27 22:40",
+    "level": "debug",
+    "message": "Deleted command: help"
+  },
+  {
+    "timestamp": "2024-04-27 22:40",
+    "level": "debug",
+    "message": "Successfully synced application (/) commands."
+  },
+  {
+    "timestamp": "2024-04-27 22:49",
+    "level": "debug",
+    "message": "Deleted command: music"
+  },
+  {
+    "timestamp": "2024-04-27 22:49",
+    "level": "debug",
+    "message": "Deleted command: animedown"
+  },
+  {
+    "timestamp": "2024-04-27 22:49",
+    "level": "debug",
+    "message": "Deleted command: help"
+  },
+  {
+    "timestamp": "2024-04-27 22:49",
+    "level": "debug",
+    "message": "Successfully synced application (/) commands."
+  },
+  {
+    "timestamp": "2024-04-27 22:52",
+    "level": "debug",
+    "message": "Deleted command: music"
+  },
+  {
+    "timestamp": "2024-04-27 22:52",
+    "level": "debug",
+    "message": "Deleted command: animedown"
+  },
+  {
+    "timestamp": "2024-04-27 22:52",
+    "level": "debug",
+    "message": "Deleted command: help"
+  },
+  {
+    "timestamp": "2024-04-27 22:52",
+    "level": "debug",
+    "message": "Successfully synced application (/) commands."
+  },
+  {
+    "timestamp": "2024-04-27 22:55",
+    "level": "debug",
+    "message": "Deleted command: music"
+  },
+  {
+    "timestamp": "2024-04-27 22:55",
+    "level": "debug",
+    "message": "Deleted command: animedown"
+  },
+  {
+    "timestamp": "2024-04-27 22:55",
+    "level": "debug",
+    "message": "Deleted command: help"
+  },
+  {
+    "timestamp": "2024-04-27 22:55",
+    "level": "debug",
+    "message": "Successfully synced application (/) commands."
+  },
+  {
+    "timestamp": "2024-04-27 22:58",
+    "level": "debug",
+    "message": "Deleted command: music"
+  },
+  {
+    "timestamp": "2024-04-27 22:58",
+    "level": "debug",
+    "message": "Deleted command: animedown"
+  },
+  {
+    "timestamp": "2024-04-27 22:58",
+    "level": "debug",
+    "message": "Deleted command: help"
+  },
+  {
+    "timestamp": "2024-04-27 22:58",
+    "level": "debug",
+    "message": "Successfully synced application (/) commands."
+  },
+  {
+    "timestamp": "2024-04-27 23:03",
+    "level": "debug",
+    "message": "Deleted command: music"
+  },
+  {
+    "timestamp": "2024-04-27 23:03",
+    "level": "debug",
+    "message": "Deleted command: animedown"
+  },
+  {
+    "timestamp": "2024-04-27 23:03",
+    "level": "debug",
+    "message": "Deleted command: help"
+  },
+  {
+    "timestamp": "2024-04-27 23:03",
+    "level": "debug",
+    "message": "Successfully synced application (/) commands."
+  },
+  {
+    "timestamp": "2024-05-02 17:42",
+    "level": "debug",
+    "message": "Deleted command: bağış"
+  },
+  {
+    "timestamp": "2024-05-02 17:43",
+    "level": "debug",
+    "message": "Deleted command: alkış"
+  },
+  {
+    "timestamp": "2024-05-02 17:43",
+    "level": "debug",
+    "message": "Deleted command: kelime-oyunu"
+  },
+  {
+    "timestamp": "2024-05-02 17:43",
+    "level": "debug",
+    "message": "Deleted command: avatar"
+  },
+  {
+    "timestamp": "2024-05-02 17:43",
+    "level": "debug",
+    "message": "Deleted command: anket"
+  },
+  {
+    "timestamp": "2024-05-02 17:44",
+    "level": "debug",
+    "message": "Successfully synced application (/) commands."
+  },
+  {
+    "timestamp": "2024-05-02 17:47",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,",
+    "shard": "[Socket] -> [oryxe ] : Connecting ws://lavalink.oryzen.xyz, Version: /v4, Trying to resume? false"
+  },
+  {
+    "timestamp": "2024-05-02 17:47",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,",
+    "shard": "[Socket] <-> [oryxe ] : Connection Handshake Done! ws://lavalink.oryzen.xyz | Upgrade Headers Resumed: false"
+  },
+  {
+    "timestamp": "2024-05-02 17:47",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,",
+    "shard": "[Socket] -> [oryxe ] : Lavalink is ready! | Lavalink resume: false | Lib resume: false"
+  },
+  {
+    "timestamp": "2024-05-02 17:47",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,",
+    "shard": "[Socket] <- [oryxe ] : Node Status Update | Server Load: 0"
+  },
+  {
+    "timestamp": "2024-05-02 17:47",
+    "level": "debug",
+    "message": "Deleted command: animedown"
+  },
+  {
+    "timestamp": "2024-05-02 17:47",
+    "level": "debug",
+    "message": "Deleted command: help"
+  },
+  {
+    "timestamp": "2024-05-02 17:47",
+    "level": "debug",
+    "message": "Successfully synced application (/) commands."
+  },
+  {
+    "timestamp": "2024-05-02 17:48",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] -> [oryxe ] : Connecting ws://lavalink.oryzen.xyz, Version: /v4, Trying to resume? false"
+  },
+  {
+    "timestamp": "2024-05-02 17:48",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <-> [oryxe ] : Connection Handshake Done! ws://lavalink.oryzen.xyz | Upgrade Headers Resumed: false"
+  },
+  {
+    "timestamp": "2024-05-02 17:48",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] -> [oryxe ] : Lavalink is ready! | Lavalink resume: false | Lib resume: false"
+  },
+  {
+    "timestamp": "2024-05-02 17:48",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <- [oryxe ] : Node Status Update | Server Load: 0"
+  },
+  {
+    "timestamp": "2024-05-02 17:48",
+    "level": "debug",
+    "message": "Deleted command: animedown"
+  },
+  {
+    "timestamp": "2024-05-02 17:48",
+    "level": "debug",
+    "message": "Deleted command: help"
+  },
+  {
+    "timestamp": "2024-05-02 17:48",
+    "level": "debug",
+    "message": "Successfully synced application (/) commands."
+  },
+  {
+    "timestamp": "2024-05-02 17:49",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <- [oryxe ] : Node Status Update | Server Load: 359"
+  },
+  {
+    "timestamp": "2024-05-02 17:49",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] -> [oryxe ] : Connecting ws://lavalink.oryzen.xyz, Version: /v4, Trying to resume? false"
+  },
+  {
+    "timestamp": "2024-05-02 17:49",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <-> [oryxe ] : Connection Handshake Done! ws://lavalink.oryzen.xyz | Upgrade Headers Resumed: false"
+  },
+  {
+    "timestamp": "2024-05-02 17:49",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] -> [oryxe ] : Lavalink is ready! | Lavalink resume: false | Lib resume: false"
+  },
+  {
+    "timestamp": "2024-05-02 17:49",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <- [oryxe ] : Node Status Update | Server Load: 0"
+  },
+  {
+    "timestamp": "2024-05-02 17:49",
+    "level": "debug",
+    "message": "Deleted command: animedown"
+  },
+  {
+    "timestamp": "2024-05-02 17:49",
+    "level": "debug",
+    "message": "Deleted command: help"
+  },
+  {
+    "timestamp": "2024-05-02 17:50",
+    "level": "debug",
+    "message": "Successfully synced application (/) commands."
+  },
+  {
+    "timestamp": "2024-05-02 17:52",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] -> [oryxe ] : Connecting ws://lavalink.oryzen.xyz, Version: /v4, Trying to resume? false"
+  },
+  {
+    "timestamp": "2024-05-02 17:52",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <-> [oryxe ] : Connection Handshake Done! ws://lavalink.oryzen.xyz | Upgrade Headers Resumed: false"
+  },
+  {
+    "timestamp": "2024-05-02 17:52",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] -> [oryxe ] : Lavalink is ready! | Lavalink resume: false | Lib resume: false"
+  },
+  {
+    "timestamp": "2024-05-02 17:52",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <- [oryxe ] : Node Status Update | Server Load: 0"
+  },
+  {
+    "timestamp": "2024-05-02 17:52",
+    "level": "debug",
+    "message": "Deleted command: animedown"
+  },
+  {
+    "timestamp": "2024-05-02 17:52",
+    "level": "debug",
+    "message": "Deleted command: help"
+  },
+  {
+    "timestamp": "2024-05-02 17:52",
+    "level": "debug",
+    "message": "Successfully synced application (/) commands."
+  },
+  {
+    "timestamp": "2024-05-02 17:53",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <- [oryxe ] : Node Status Update | Server Load: 562"
+  },
+  {
+    "timestamp": "2024-05-02 17:54",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <- [oryxe ] : Node Status Update | Server Load: 357"
+  },
+  {
+    "timestamp": "2024-05-02 17:55",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <- [oryxe ] : Node Status Update | Server Load: 362"
+  },
+  {
+    "timestamp": "2024-05-02 17:56",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <- [oryxe ] : Node Status Update | Server Load: 331"
+  },
+  {
+    "timestamp": "2024-05-02 17:57",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <- [oryxe ] : Node Status Update | Server Load: 335"
+  },
+  {
+    "timestamp": "2024-05-02 17:58",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <- [oryxe ] : Node Status Update | Server Load: 446"
+  },
+  {
+    "timestamp": "2024-05-02 17:59",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <- [oryxe ] : Node Status Update | Server Load: 337"
+  },
+  {
+    "timestamp": "2024-05-02 18:00",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <- [oryxe ] : Node Status Update | Server Load: 371"
+  },
+  {
+    "timestamp": "2024-05-02 18:01",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <- [oryxe ] : Node Status Update | Server Load: 375"
+  },
+  {
+    "timestamp": "2024-05-02 18:02",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <- [oryxe ] : Node Status Update | Server Load: 416"
+  },
+  {
+    "timestamp": "2024-05-02 18:03",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <- [oryxe ] : Node Status Update | Server Load: 358"
+  },
+  {
+    "timestamp": "2024-05-02 18:04",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <- [oryxe ] : Node Status Update | Server Load: 390"
+  },
+  {
+    "timestamp": "2024-05-02 18:05",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <- [oryxe ] : Node Status Update | Server Load: 421"
+  },
+  {
+    "timestamp": "2024-05-02 18:06",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <- [oryxe ] : Node Status Update | Server Load: 357"
+  },
+  {
+    "timestamp": "2024-05-02 18:07",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] -> [oryxe ] : Connecting ws://lavalink.oryzen.xyz, Version: /v4, Trying to resume? false"
+  },
+  {
+    "timestamp": "2024-05-02 18:07",
+    "level": "debug",
+    "message": "Deleted command: animedown"
+  },
+  {
+    "timestamp": "2024-05-02 18:07",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <-> [oryxe ] : Connection Handshake Done! ws://lavalink.oryzen.xyz | Upgrade Headers Resumed: false"
+  },
+  {
+    "timestamp": "2024-05-02 18:07",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] -> [oryxe ] : Lavalink is ready! | Lavalink resume: false | Lib resume: false"
+  },
+  {
+    "timestamp": "2024-05-02 18:07",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <- [oryxe ] : Node Status Update | Server Load: 0"
+  },
+  {
+    "timestamp": "2024-05-02 18:07",
+    "level": "debug",
+    "message": "Deleted command: help"
+  },
+  {
+    "timestamp": "2024-05-02 18:07",
+    "level": "debug",
+    "message": "Successfully synced application (/) commands."
+  },
+  {
+    "timestamp": "2024-05-02 18:08",
+    "level": "debug",
+    "message": "Lavalink oryxe : Debug,: [Socket] <- [oryxe ] : Node Status Update | Server Load: 307"
   }
 ]

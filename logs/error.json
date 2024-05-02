@@ -1,1 +1,124 @@
-[]
+[
+  {
+    "timestamp": "2024-04-27 22:20",
+    "level": "error",
+    "message": {}
+  },
+  {
+    "timestamp": "2024-04-27 22:21",
+    "level": "error",
+    "message": {}
+  },
+  {
+    "timestamp": "2024-04-27 22:29",
+    "level": "error",
+    "message": {}
+  },
+  {
+    "timestamp": "2024-04-27 22:34",
+    "level": "error",
+    "message": {}
+  },
+  {
+    "timestamp": "2024-04-27 22:37",
+    "level": "error",
+    "message": {}
+  },
+  {
+    "timestamp": "2024-04-27 22:38",
+    "level": "error",
+    "message": {}
+  },
+  {
+    "timestamp": "2024-04-27 22:50",
+    "level": "error",
+    "message": {
+      "name": "Error",
+      "value": "PRIMARY",
+      "enumKeys": [
+        "Primary",
+        "Secondary",
+        "Success",
+        "Danger",
+        "Link"
+      ],
+      "enumMappings": [
+        [
+          "Primary",
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          "1",
+          1
+        ],
+        [
+          "Secondary",
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          "2",
+          2
+        ],
+        [
+          "Success",
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          "3",
+          3
+        ],
+        [
+          "Danger",
+          4
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          "4",
+          4
+        ],
+        [
+          "Link",
+          5
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          "5",
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "timestamp": "2024-04-27 22:53",
+    "level": "error",
+    "message": {}
+  },
+  {
+    "timestamp": "2024-04-27 22:53",
+    "level": "error",
+    "message": {}
+  },
+  {
+    "timestamp": "2024-04-27 22:56",
+    "level": "error",
+    "message": {}
+  }
+]

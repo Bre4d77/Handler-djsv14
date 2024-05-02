@@ -22,7 +22,7 @@ module.exports = {
       setTimeout(() => lucy.cooldowns.delete(command.data.name), command.cooldown * 1000);
     } catch (error) {
       lucy.logger.error(error, lucy.shard.id);
-      await interaction.reply({ content: 'There was an error while executing this command!', ephemeral: true });
+      await interaction.reply({ content: `There was an error while executing this command!`, ephemeral: true });
     }
   },
 };

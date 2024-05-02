@@ -66,8 +66,9 @@ class DiscordLogger {
     const levelEmoji = this.getEmojiForLevel(level);
     const levelColor = this.getColorForLevel(level);
     const formattedMessage = `${levelColor(`[${timestamp}] [${levelEmoji} ${level.toUpperCase()}]: ${message}`)}`;
-
+    console.log('<------------')
     console.log(formattedMessage);
+    console.log('------------->')
 
     const logEntry = {
       timestamp,
