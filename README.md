@@ -1,4 +1,4 @@
-hi
+hi,test
 # 🤖 Lucy Discord.js v14 Command Handler 🤖
 
 > Unleash the power of Discord.js v14 with this sleek, efficient, and downright adorable command handler! Prepare to be dazzled by its sheer awesomeness.
