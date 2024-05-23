@@ -1,17 +1,13 @@
-name: update ptero
-
-on:
-  push:
-    branches:
-      - master
-
+name: My Pterodactyl Restarter
+on: [ push ]
 jobs:
-  test:
+  restart-server:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: ./
+      - name: restart
+        uses: outsparkled/pterodactyl-power-action@v0.1.0
         with:
-          PTE_PANEL_URL: 'https://panel.sillydev.co.uk'
-          PTE_BEARER_TOKEN: ${{ secrets.PTE_BEARER_TOKEN }}
-          PTE_PANEL_ID: ${{ secrets.PTE_PANEL_ID }}
+          panel-url: 'https://panel.sillydev.co.uk'
+          server-id: ${{ secrets.PTE_PANEL_ID}}
+          bearer-token: ${{ secrets.PTE_BEARER_TOKEN  }}
+          power-action: 'restart'
