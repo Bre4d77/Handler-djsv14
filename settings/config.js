@@ -9,11 +9,8 @@ module.exports = {
             port: 2333,
             password: "youshallnotpass",
             secure: false
-        }
-    ],
-  downloadBaseUrl: 'https://api.priyanshu-0w08.workers.dev/',
-  searchBaseUrl: 'https://bre4d-api.vercel.app/anime/gogoanime',
-  statusMessages: [
+        },
+    statusMessages: [
     'with Discord.js',
     'with bre4d senpai',
   ],
