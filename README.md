@@ -1,4 +1,5 @@
-hi,test2
+# Note 
+> everything in this repository is ai generated but everything works (was testing llma trained on discord js codes and other stuff)
 # 🤖 Lucy Discord.js v14 Command Handler 🤖
 
 > Unleash the power of Discord.js v14 with this sleek, efficient, and downright adorable command handler! Prepare to be dazzled by its sheer awesomeness.
